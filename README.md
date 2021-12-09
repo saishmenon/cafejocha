@@ -1,3 +1,6 @@
+# View the live website
+[CaféJocha](https://nervous-euler-9a6eaf.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
