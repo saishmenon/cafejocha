@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fec5201e.chunk.css",
+    "main.js": "/static/js/main.1819953c.chunk.js",
+    "main.js.map": "/static/js/main.1819953c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.790a5ddd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.790a5ddd.js.map",
+    "static/js/2.340f82a6.chunk.js": "/static/js/2.340f82a6.chunk.js",
+    "static/js/2.340f82a6.chunk.js.map": "/static/js/2.340f82a6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fec5201e.chunk.css.map": "/static/css/main.fec5201e.chunk.css.map",
+    "static/js/2.340f82a6.chunk.js.LICENSE.txt": "/static/js/2.340f82a6.chunk.js.LICENSE.txt",
+    "static/media/coffee.18312a3d.svg": "/static/media/coffee.18312a3d.svg",
+    "static/media/coffees.9cd245a2.svg": "/static/media/coffees.9cd245a2.svg",
+    "static/media/img_1.dc33630c.webp": "/static/media/img_1.dc33630c.webp",
+    "static/media/img_2.5a31c9f2.webp": "/static/media/img_2.5a31c9f2.webp",
+    "static/media/more_coffee.aab848c5.svg": "/static/media/more_coffee.aab848c5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.790a5ddd.js",
+    "static/js/2.340f82a6.chunk.js",
+    "static/css/main.fec5201e.chunk.css",
+    "static/js/main.1819953c.chunk.js"
+  ]
+}
